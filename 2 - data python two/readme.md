@@ -5,10 +5,6 @@
 
 * Review of last week
 * Lists & Dictionaries
-* Functions
 * Iteration
-* String Methods
+* Functions
 * Files
-* Lists
-* Dictionaries
-* Putting it All Together
