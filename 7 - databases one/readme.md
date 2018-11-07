@@ -1,20 +1,10 @@
 # Relational Databases and SQL Part one
-
-
+---
 ## Topics
 1. Introduction to the Relational Model
 2. Introduction to the SQLite Command
 3. SQLite Command Prompt Examples
 4. SQL from Pandas
-
-
-
-
-
-
-
-
-
 
 ## Credits
 
